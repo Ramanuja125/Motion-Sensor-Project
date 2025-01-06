@@ -1,5 +1,7 @@
 # Motion-Sensor-Project
 
+This project was created in order to have the Elevator's light turn on based on the presence of a user, if there is no presence of a user, the light has to be turned off.
+
 The Connections Has to be made as shown in the image
 here 
 Input is given in PIN2
